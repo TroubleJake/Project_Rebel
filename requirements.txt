@@ -1,0 +1,8 @@
+opencv-python
+numpy
+pillow
+pyzbar
+ultralytics
+torch
+torchvision
+sqlite3
