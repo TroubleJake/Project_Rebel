@@ -1,0 +1,28 @@
+# Virtual enviroment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Enviroment variables/secrets
+.env
+
+# IDE files
+.vscode/
+.idea/
+
+# Databases
+data/products.db
+*.sqlite
+*.sqlite3
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build files
+build/
+dist/
+*.egg-info/type
