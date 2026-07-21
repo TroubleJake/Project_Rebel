@@ -26,3 +26,7 @@ Thumbs.db
 build/
 dist/
 *.egg-info/type
+
+# Logs
+logs/
+*.log
